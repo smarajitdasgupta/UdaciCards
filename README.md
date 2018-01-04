@@ -16,3 +16,7 @@ UdaciCards is a mobile flashcards application using React Native that allows use
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 You can find more information on how to perform common tasks [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
+
+## Expo
+
+To view the app select i for IOS simulator. You will need to have [Expo](https://docs.expo.io/versions/latest/index.html) available. Alternatively, using the Expo native app, scan the QR code from your terminal to open your project.

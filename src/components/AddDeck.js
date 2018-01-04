@@ -38,7 +38,7 @@ class AddDeck extends Component {
   }
 
   goHome() {
-    this.props.navigation.dispatch(NavigationActions.back({key: 'AddDeck'}))
+    this.props.navigation.navigate('DeckInfo', {deckTitle: this.state.title})
   }
 
   render() {
